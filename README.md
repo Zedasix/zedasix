@@ -1,2 +1,2 @@
 ### Hello world 👋
-Je pose simplement mes scripts ou config ici.
+Je pose mes scripts ou config ici.
