@@ -1,5 +1,5 @@
 ### Hello world 👋
-Je pose mes scripts ou config ici.<h3 align="center">A passionate frontend developer from India</h3>
+Je pose mes scripts ou config ici.<h3 align="center">A passionate frontend developer from earth</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
